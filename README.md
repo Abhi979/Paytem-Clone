@@ -15,4 +15,13 @@ This Project is part of Full Stack Javascript bootcamp which is being taught by 
   
   ### Screen Short
   
- ![image](https://user-images.githubusercontent.com/65283278/188389728-c50aaaf0-43d8-4aad-b693-f7c1e431a4bb.png)
+  - Desktop
+  
+![smartmockups_l7ofx9gm](https://user-images.githubusercontent.com/65283278/188392720-36364467-cc17-4ae0-9e8a-0a3302d3f169.jpg)
+
+- Multi-Device
+
+![smartmockups_l7og24po](https://user-images.githubusercontent.com/65283278/188393353-e4ab8506-bd06-44f4-8c21-a049ae6c9f8a.png)
+
+
+
